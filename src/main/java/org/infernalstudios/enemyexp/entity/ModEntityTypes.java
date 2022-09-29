@@ -1,4 +1,4 @@
-package org.infernalstudios.enemy_expansion.entity;
+package org.infernalstudios.enemyexp.entity;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.EntityType;
@@ -7,8 +7,8 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import org.infernalstudios.enemy_expansion.EnemyExpansion;
-import org.infernalstudios.enemy_expansion.entity.custom.SluggerEntity;
+import org.infernalstudios.enemyexp.EnemyExpansion;
+import org.infernalstudios.enemyexp.entity.custom.SluggerEntity;
 
 public class ModEntityTypes {
     public static final DeferredRegister<EntityType<?>> ENTITY_TYPES =

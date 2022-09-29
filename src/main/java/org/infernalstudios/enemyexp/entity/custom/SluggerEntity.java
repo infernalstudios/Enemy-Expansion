@@ -1,4 +1,4 @@
-package org.infernalstudios.enemy_expansion.entity.custom;
+package org.infernalstudios.enemyexp.entity.custom;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.sounds.SoundEvent;
